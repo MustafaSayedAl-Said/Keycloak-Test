@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HuF75J/l2u4510gC1pn8dFrm1S48FqFa9mcPzrWzT6w=",
+  "Source": "TestKeycloak",
+  "BasePath": "_content/TestKeycloak",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

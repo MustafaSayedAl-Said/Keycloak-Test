@@ -1,0 +1,6 @@
+@TestKeycloak_HostAddress = http://localhost:5229
+
+GET {{TestKeycloak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
